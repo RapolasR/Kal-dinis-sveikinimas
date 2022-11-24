@@ -21,6 +21,7 @@ h1:hover{
 
 audio{
     border-radius: 30px;
+    background-color: lightgreen;
 }
 
 audio:hover{
